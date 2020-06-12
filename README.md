@@ -16,6 +16,7 @@ Presented here are all of the 72 names of God.
 01.
 
 Name: Vav Hey Vav
+
 Angel: Vehuiah          
 Ruler: Metatron        
 Choir: Seraphim           
