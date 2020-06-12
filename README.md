@@ -70,8 +70,8 @@ Meditation: I now switch off destructive thoughts emanating from my ego. My hear
 Name: Mem Hey Shin
 
 Angel: Mahasiah  
-Metatron        
-Seraphim            
+Ruler: Metatron        
+Choir: Seraphim            
 Psalms 34:4
 
 Purpose: Healing
