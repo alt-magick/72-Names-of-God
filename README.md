@@ -30,6 +30,7 @@ Meditation: I awaken remorse in my heart for prior misdeeds. I accept the frank 
 02.
 
 Name: Yud Lamed Yud
+
 Angel: Jelial          
 Ruler: Metatron        
 Choir: Seraphim            
@@ -42,6 +43,7 @@ Meditation: Shards of Light are drawn out of the destructive entities that resid
 03.
 
 Name: Samech Yud Tet
+
 Angel: Sitael          
 Ruler: Metatron        
 Choir: Seraphim            
@@ -54,6 +56,7 @@ Meditation: I free myself from all selfishness, envy, anger, and self-pity. By r
 04.
 
 Name: Ayinh Lamed Mem
+
 Angel: Elemiah  
 Ruler: Metatron        
 Choir: Seraphim            
@@ -65,6 +68,7 @@ Meditation: I now switch off destructive thoughts emanating from my ego. My hear
 
 05.
 Name: Mem Hey Shin
+
 Angel: Mahasiah  
 Metatron        
 Seraphim            
@@ -76,6 +80,7 @@ Meditation: The power of this Name brings the energy of healing at the deepest a
 
 06.
 Name: Lamed Lamed Hey
+
 Angel: Lehahel          
 Ruler: Metatron        
 Choir: Seraphim            
@@ -87,6 +92,7 @@ Meditation: With this Name I dream truthfully. My soul ascends to safe and lovin
 
 07.
 Name: Aleph Kaf Aleph
+
 Angel: Achaiah          
 Ruler: Metatron        
 Choir: Seraphim            
@@ -98,6 +104,7 @@ Meditation: With this Name I receive nothing less than the full impact of the fo
 
 08.
 Name: Kaf Hey Tav
+
 Angel: Cahetel          
 Ruler: Metatron        
 Choir: Seraphim            
@@ -109,6 +116,7 @@ Meditation: Purifying Light banishes the unseen ominous forces and deactivates h
 
 09.
 Name: Hey Zayin Yud
+
 Angel: Haziel    
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -120,6 +128,7 @@ Meditation: Using this Name I can now access the network of angels. I can remove
 
 10.
 Name: Aleph Lamed Daled
+
 Angel: Aladiah          
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -131,6 +140,7 @@ Meditation: My own potential to cast the evil eye at others is diminished. A shi
 
 11.
 Name: Lamed Aleph Vav
+
 Angel: Lauviah          
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -142,6 +152,7 @@ Meditation: The Light of this Name deactivates negative energy and cleanses my e
 
 12.
 Name: Hey Hey Ayin
+
 Angel: Hahaiah          
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -153,6 +164,7 @@ Meditation: When I emulate the Creator's love for all humankind, I bring love in
 
 13.
 Name: Yud Zayin Lamed
+
 Angel: Iezalel          
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -164,6 +176,7 @@ Meditation: I ignite the Light of the Messiah within myself, within others, and 
 
 14.
 Name: Mem Bet Hey
+
 Angel: Mebahel          
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -175,6 +188,7 @@ Meditation: Just as the the light of a bulb banishes darkness from a room, confl
 
 15.
 Name: Hey Resh Yud
+
 Angel: Hariel          
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -186,6 +200,7 @@ Meditation: I have the power of clear vision and foresight in every part of my l
 
 16.
 Name: Hey Kuf Mem
+
 Angel: Hakamiah  
 Ruler: Jophiel        
 Choir: Cherubim            
@@ -197,6 +212,7 @@ Meditation: I have now been bestowed with the emotional strength to stand after 
 
 17.
 Name: Lamed Aleph Vav
+
 Angel: Lanoiah          
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -210,6 +226,7 @@ As I look into my soul, I can feel the sore places where I have been wounded by 
 
 18.
 Name: Kaf Lamed Yud
+
 Angel: Caliel          
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -221,6 +238,7 @@ Meditation: Abundance and fruitfulness fill my being. I am imbued with the power
 
 19.
 Name: Lamed Vav Vav
+
 Angel: Leuviah          
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -232,6 +250,7 @@ Meditation: Using this name I can activate direct dial to God. I take in the Nam
 
 20.
 Name: Pey Hey Lamed
+
 Angel: Pahaliah  
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -244,6 +263,7 @@ Meditation: I am ready to battle the nasty habits and unpleasant character trait
 
 21.
 Name: Nun Lamed Kaf
+
 Angel: Nelchael
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -255,6 +275,7 @@ Meditation: Using this Name I summon light to wipe out these plagues at their ro
 
 22.
 Name: Yud Yud Yud
+
 Angel: Ieiaiel          
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -266,6 +287,7 @@ Meditation: I am the high priest in the temple of my own being. Through the powe
 
 23.
 Name: Mem Lamed Hey
+
 Angel: Melahel          
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -277,6 +299,7 @@ Meditation: I take this Name with me out into the real world so I can share the 
 
 24.
 Name: Chet Hey Vav
+
 Angel: Haniniah  
 Ruler: Zaphkiel        
 Choir: Thrones                
@@ -288,6 +311,7 @@ Meditation: I ascend into the Upper World to diminish the forest of darkness cau
 
 25.
 Name: Nun Tav Hey
+
 Angel: Nilaihah  
 Ruler: Zadkiel        
 Choir: Dominations    
@@ -300,6 +324,7 @@ Meditation: When I need to tell the truth, this name gives me the courage to ope
 26.
 
 Name: Hey Aleph Aleph
+
 Angel: Haaiah          
 Ruler: Zadkiel        
 Choir: Dominations            
@@ -311,6 +336,7 @@ Meditation: I know that harmony always underlies chaos and with this name, balan
 
 27.
 Name: Yud Resh Tav
+
 Angel: Ierathel  
 Ruler: Zadkiel        
 Choir: Dominations            
@@ -322,6 +348,7 @@ Meditation: Tithing (freewill offering) this meditation upon this sequence of le
 
 28.
 Name: Shin Aleph Hey
+
 Angel: Seehiah          
 Ruler: Zadkiel        
 Choir: Dominations            
@@ -334,6 +361,7 @@ Meditation: Using this sequence of letters the energy of soul mates is aroused i
 29.
 
 Name: Resh Yud Yud
+
 Angel: Reiiel          
 Ruler: Zadkiel        
 Choir: Dominations            
@@ -345,6 +373,7 @@ Meditation: I need to be painfully honest! I acknowledge every person or group o
 
 30.
 Name: Aleph Vav Mem
+
 Angel: Omael          
 Ruler: Zadkiel        
 Choir: Dominations            
@@ -356,6 +385,7 @@ Meditation: In this physical realm, I concentrate on people and on relationships
         
 31.
 Name: Lamed Kaf Bet
+
 Angel: Lecahel          
 Ruler: Zadkiel        
 Choir: Dominations            
@@ -367,6 +397,7 @@ Meditation: I am endowed with the power to conclude everything I begin, especial
 
 32.
 Name: Vav Shin Resh
+
 Angel: Yasariah  
 Ruler: Zadkiel        
 Choir: Dominations            
@@ -378,6 +409,7 @@ Meditation: The power of memory arises within my consciousness Lessons of life a
 
 33.
 Name: Yud Chet Vav
+
 Angel: Ieuiah          
 Ruler: Kamael        
 Choir: Powers                
@@ -389,6 +421,7 @@ Meditation: Light shines! I recognize the negative forces still active within me
 
 34.
 Name: Lamed Hey Chet
+
 Angel: Lehahaiah
 Ruler: Kamael        
 Choir: Powers                
@@ -400,6 +433,7 @@ Meditation: I now transcend the limits of my own being. I cling to the Tree of L
 
 35.
 Name: Kaf Vav Kuf
+
 Angel: Chavakiah
 Ruler: Kamael        
 Choir: Powers                
@@ -411,6 +445,7 @@ Meditation: With this Name I purify my desires so that I share love and energy w
 
 36.
 Name: Mem Nun Daled
+
 Angel: Menadel          
 Ruler: Kamael        
 Choir: Powers                
@@ -422,6 +457,7 @@ Meditation: What am I afraid of? With this Name the courage to conquer my fear n
 
 37.
 Name: Aleph Nun Yud
+
 Angel: Aniel          
 Ruler: Kamael        
 Choir: Powers                
@@ -434,6 +470,7 @@ Meditation: This Name raises my awareness of the long-term effects of all my act
 
 38.
 Name: Chet Ayin Mem
+
 Angel: Haamiah          
 Ruler: Kamael        
 Choir: Powers                
@@ -445,6 +482,7 @@ Meditation: This Name helps me to receive when I share and to share when I recei
 
 39.
 Name: Resh Hey Ayin
+
 Angel: Rehael          
 Ruler: Kamael        
 Choir: Powers                
@@ -456,6 +494,7 @@ Meditation: Here I accomplish nothing less than the complete transformation of n
 
 40.
 Name: Yud Yud Zayin
+
 Angel: Ieiazel          
 Ruler: Kamael        
 Choir: Powers                
@@ -467,6 +506,7 @@ Meditation: I silence my ego. Push the mute button. Now I call upon the Light to
 
 41.
 Name: Hey Hey Hey
+
 Angel: Hahael          
 Ruler: Raphael        
 Choir: Virtues                
@@ -478,6 +518,7 @@ Meditation: With the divine energy of this sequence of letters, I am connected t
 
 42.
 Name: Mem Yud Kaf
+
 Angel: Mikael          
 Ruler: Raphael        
 Choir: Virtues                
@@ -489,6 +530,7 @@ Meditation: I gather the ability to bring forth the powers of observation to see
 
 43.
 Name: Vav Vav Lamed
+
 Angel: Veualiah  
 Ruler: Raphael        
 Choir: Virtues                
@@ -500,6 +542,7 @@ Meditation: I am throwing away my doubts, pessimism and limiting nature. I choos
 
 44.
 Name: Yud Lamed Hey
+
 Angel: Ielahiah  
 Ruler: Raphael        
 Choir: Virtues                
@@ -513,6 +556,7 @@ I spread love for no reason. I resist tendencies toward judgment. As I look back
 
 45.
 Name: Samech Aleph Lamed
+
 Angel: Sealiah          
 Ruler: Raphael        
 Choir: Virtues                
@@ -524,6 +568,7 @@ Meditation: I acknowledge that the Light of the creator is the ultimate source o
 
 46.
 Name: Ayin Resh Yud
+
 Angel: Ariel          
 Ruler: Raphael        
 Choir: Virtues                
@@ -535,6 +580,7 @@ Meditation: By using this Name I fill my heart with certainty! Certitude! Convic
 
 47.
 Name: Ayin Shin Lamed
+
 Angel: Asaliah          
 Ruler: Raphael        
 Choir: Virtues                
@@ -546,6 +592,7 @@ Meditation: I reflect upon the spiritual truth that world peace begins with peac
 
 48.
 Name: Mem Yud Hey
+
 Angel: Mihael          
 Ruler: Raphael        
 Choir: Virtues                
@@ -557,6 +604,7 @@ Meditation: With these letters, I pass the true test of spiritual character I ca
         
 49.
 Name: Vav Hey Vav
+
 Angel: Vehuel          
 Ruler: Haniel        
 Principalities        
@@ -568,6 +616,7 @@ Meditation: I find the strength to restrain selfish longings. Through this Name 
 
 50.
 Name: Daled Nun Yud
+
 Angel: Daniel          
 Ruler: Haniel        
 Choir: Principalities        
@@ -579,6 +628,7 @@ Meditation: My eyes and heart remain focused on the end goal at all times. I awa
 
 51.
 Name: Hey Chet Shin
+
 Angel: Hahasiah  
 Ruler: Haniel        
 Choir: Principalities        
@@ -590,6 +640,7 @@ Meditation: I recall negative deeds from my past. I reflect on some of my more u
 
 52.
 Name: Ayin Mem Mem
+
 Angel: Imamiah          
 Ruler: Haniel        
 Choir: Principalities        
@@ -601,6 +652,7 @@ Meditation: This Name stokes the fires of passion in my heart and soul. The lett
         
 53.
 Name: Nun Nun Aleph
+
 Angel: Nanael          
 Ruler: Haniel        
 Choir: Principalities        
@@ -612,6 +664,7 @@ Meditation: Motivation of self-interest, ulterior motives, and hidden agendas gi
 
 54.
 Name: Nun Yud Tav
+
 Angel: Nilhael          
 Ruler: Haniel        
 Choir: Principalities        
@@ -623,6 +676,7 @@ Meditation: I now focus my attention and meditate with total conviction and cert
 
 55.
 Name: Mem Bet Hey
+
 Angel: Mehaiah          
 Ruler: Haniel        
 Choir: Principalities        
@@ -634,6 +688,7 @@ Meditation: I now reconnect and reunite the Upper and Lower Worlds through the p
 
 56.
 Name: Pey Vav Yud
+
 Angel: Poiel          
 Ruler: Haniel        
 Choir: Principalities        
@@ -647,6 +702,7 @@ I purge anger from my heart, free my soul of the burden that comes with reacting
 
 57.
 Name: Nun Mem Mem
+
 Angel: Nemamiah  
 Ruler: Michael        
 Choir: Archangels            
@@ -658,6 +714,7 @@ Meditation: The whispers of my soul and the divine counsel of the Light are hear
 
 58.
 Name: Yud Yud Lamed
+
 Angel: Ieialel          
 Ruler: Michael        
 Choir: Archangels            
@@ -671,6 +728,7 @@ I let go of fear, insecurity, that old broken relationship. I get rid of it all.
         
 59.
 Name: Hey Resh Chet
+
 Angel: Harael          
 Ruler: Michael        
 Choir: Archangels            
@@ -682,6 +740,7 @@ Meditation: I now establish an umbilical cord to the Divine Energy, ensuring a c
 
 60.
 Name: Mem Zadik Resh
+
 Angel: Mitzrael  
 Ruler: Michael        
 Choir: Archangels            
@@ -693,9 +752,10 @@ Meditation: I clearly see my personal limitations. Looking into the past, I noti
 
 61.
 Name: Vav Mem Bet
-Umahel          
-Michael        
-Archangels            
+
+Angel: Umahel          
+Ruler: Michael        
+Choir: Archangels            
 Psalms 113:2
 
 Purpose: Water (physical and spiritual healing through the energy of water)
@@ -704,6 +764,7 @@ Meditation: With this Name I purify the waters of the Earth and awaken the force
         
 62.
 Name: Yud Hey Hey
+
 Angel: Iahhel          
 Ruler: Michael        
 Choir: Archangels            
@@ -715,6 +776,7 @@ Meditation: I desire to lovingly, respectfully, and selflessly share this wisdom
 
 63.
 Name: Ayin Nun Vav
+
 Angel: Ananel          
 Ruler: Michael        
 Choir: Archangels            
@@ -726,6 +788,7 @@ Meditation: Appreciation. Thankfulness. Gratitude. These noble attributes of Mos
 
 64.
 Name: Mem Chet Yud
+
 Angel: Mehriel          
 Ruler: Michael        
 Choir: Archangels            
@@ -737,6 +800,7 @@ Meditation: My own being is illuminated beautifully, suffused with the Creator's
 
 65.
 Name: Daled Mem Bet
+
 Angel: Damabiah  
 Ruler: Gabriel        
 Choir: Angels                
@@ -748,6 +812,7 @@ Meditation: I am aware of the divine sparks in every person. Their true essence 
 
 66.
 Name: Mem Nun Kuf
+
 Angel: Manakel          
 Ruler: Gabriel        
 Choir: Angels                
@@ -761,6 +826,7 @@ All of the feelings of self-pity, victimhood and hopes of retaliation are vanish
 
 67.
 Name: Aleph Yud Ayin
+
 Angel: Eiael          
 Ruler: Gabriel        
 Choir: Angels                
@@ -772,6 +838,7 @@ Meditation: By meditating on this Name, I gain control over the power of time in
         
 68.
 Name: Chet Bet Vav
+
 Angel: Hahniah          
 Ruler: Gabriel        
 Choir: Angels                
@@ -783,6 +850,7 @@ Meditation: I evoke the memories of loved ones who have passed on. I see them su
 
 69.
 Name: Resh Aleph Hey
+
 Angel: Rochel          
 Ruler: Gabriel        
 Choir: Angels                
@@ -794,6 +862,7 @@ Meditation: With this Name as my compass, the path toward my spiritual home is i
         
 70.
 Name: Yud Bet Mem
+
 Angel: Jabamiah  
 Ruler: Gabriel        
 Choir: Angels                
@@ -805,6 +874,7 @@ Meditation: When I am overcome with feelings of doubt or panic or with thoughts 
 
 71.
 Name: Hey Yud Yud
+
 Angel: Haiaiel          
 Ruler: Gabriel        
 Choir: Angels                
@@ -816,6 +886,7 @@ Meditation: I am bestowed with the power of prophecy. With my consciousness elev
 
 72.
 Name: Mem Vav Mem
+
 Angel: Mumiah           
 Ruler: Gabriel
 Choir: Angels                
